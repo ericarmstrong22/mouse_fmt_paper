@@ -4,7 +4,7 @@ This repository contains the code used for all statistical analyses conducted in
 
 Raw metagenomic data can be found in the NCBI Sequence Read Archive under accession number PRJNA1219628.
 
-All analyses were run in the following environment:
-R version 4.3.2 (2023-10-31)
-Platform: aarch64-apple-darwin20 (64-bit)
+All analyses were run in the following environment:  
+R version 4.3.2 (2023-10-31)  
+Platform: aarch64-apple-darwin20 (64-bit)  
 macOS: 15.3.2
